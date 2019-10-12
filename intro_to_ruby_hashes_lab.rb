@@ -15,7 +15,7 @@ def monopoly_with_second_tier
   # complexity.
   monopoly_with_second_tier = {
 	  :rainroads => {
-	    :pieces=>'4'
+	    :pieces =>'4'
 	  }
 	}
 	return monopoly_with_second_tier
